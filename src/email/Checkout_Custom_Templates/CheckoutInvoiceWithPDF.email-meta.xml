@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>41.0</apiVersion>
+    <available>true</available>
+    <description>Checkout invoice notification with attached PDF</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>CheckoutInvoiceWithPDF</name>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>8</minorNumber>
+        <namespace>sfcma</namespace>
+    </packageVersions>
+    <style>none</style>
+    <type>visualforce</type>
+</EmailTemplate>

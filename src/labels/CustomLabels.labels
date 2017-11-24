@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Checkout_Invoice_Billing_Email</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Checkout Invoice Billing Email</shortDescription>
+        <value>billing@yourcompany.com</value>
+    </labels>
+</CustomLabels>
